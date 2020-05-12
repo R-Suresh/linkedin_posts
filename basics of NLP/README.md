@@ -1,0 +1,1 @@
+This notebook is the code for the [post](#) talking about the basics of NLP
